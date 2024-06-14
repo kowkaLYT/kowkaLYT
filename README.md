@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dasha</h1>
 <h3 align="center">Im a front-end dev from UA</h3>
-<img align="right" alt="Me" width="350" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+<img align="right" alt="Me" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 - 🔭 I’m currently working in [NovaDevelopersCo](https://github.com/NovaDevelopersCo)
 
