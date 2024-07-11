@@ -13,7 +13,7 @@
 <a href="https://instagram.com/dasha_fedorchenko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dasha_fedorchenko_" height="30" width="40" /></a>
 <a href="https://fb.com/дарья федорченко" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="дарья федорченко" height="30" width="40" /></a>
 <a href="https://twitter.com/fedorchenko dasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fedorchenko dasha" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/dasha-fedorchenko-3b294a290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasha fedorchenko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dasha-fedorchenko-3b294a290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasha fedorchenko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
