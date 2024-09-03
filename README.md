@@ -32,7 +32,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" /></a>
   <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" /></a>
-  <a href="http://getbem.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/69ea7f189f8dfc125a5d941f96d10341ca282203c00fb94e756acf581127260b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f62656d2e737667" alt="BEM" width="48" height="48" data-canonical-src="https://profilinator.rishav.dev/skills-assets/bem.svg"></a>
 </td>
   <td>
     <h3>DevOps</h3>
