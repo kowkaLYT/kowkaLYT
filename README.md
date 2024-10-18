@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dasha</h1>
-<h3 align="center">Im a front-end dev from UA</h3>
+<h3 align="center">I'm a front-end dev from UA</h3>
 <img align="right" alt="Me" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 - 🔭 I’m currently working in [NovaDevelopersCo](https://github.com/NovaDevelopersCo)
@@ -28,6 +28,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" /></a>
+  <a href="http://www.w3.org/2000/svg" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pug" alt="pug" /></a>
   <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" /></a>
