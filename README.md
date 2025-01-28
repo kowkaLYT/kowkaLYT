@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working in [NovaDevelopersCo](https://github.com/NovaDevelopersCo)
 
-- 🌱 I’m currently learning **Redux, Next**
-
 - 📫 How to reach me **dasafedorcenko7@gmail.com**
 
 <h3 align="left">Connect with me!</h3>
