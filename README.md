@@ -46,8 +46,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kowkalyt&label=Profile%20views&color=0e75b6&style=flat" alt="kowkalyt" /> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowkalyt&theme=radical&layout=compact" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kowkalyt&show_icons=true&theme=radical" />
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kowkalyt&theme=radical" alt="kowkalyt"/>
-
 
 
 
