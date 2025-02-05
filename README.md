@@ -3,7 +3,7 @@
 <img align="right" alt="Me" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 - 🔭 I’m currently working in [NovaDevelopersCo](https://github.com/NovaDevelopersCo)
-
+- 🌴 I'm currently learning 
 - 📫 How to reach me **dasafedorcenko7@gmail.com**
 
 <h3 align="left">Connect with me!</h3>
