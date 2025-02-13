@@ -7,10 +7,12 @@
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-<a href="https://instagram.com/dasha_fedorchenko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dasha_fedorchenko_" height="30" width="40"/></a>
-<a href="https://fb.com/дарья федорченко" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="дарья федорченко" height="30" width="40" /></a>
-<a href="https://twitter.com/fedorchenko dasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fedorchenko dasha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dasha-fedorchenko-3b294a290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasha fedorchenko" height="30" width="40" /></a>
+<a href="https://instagram.com/dasha_fedorchenko_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
+<a href="https://fb.com/дарья федорченко" target="blank"<img src="https://skillicons.dev/icons?i=fb" alt="facebook" /></a>
+<a href="https://www.linkedin.com/in/dasha-fedorchenko-3b294a290/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="https://twitter.com/fedorchenko dasha" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
+<a href="https://codepen.io/kowkaLYT" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=codepen" alt="codepen" /></a>
+<a href="https://stackexchange.com/users/36801597/dasha" target="blank rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
