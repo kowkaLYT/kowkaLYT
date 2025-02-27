@@ -2,6 +2,7 @@
 <h3 align="center">I'm a front-end dev from UA</h3>
 <img align="right" alt="Me" width="250" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
+- 🌺 I'm currently learning <b>Nextjs</b>
 - 🔭 I’m currently working in [NovaDevelopersCo](https://github.com/NovaDevelopersCo)
 - 📫 How to reach me **dasafedorcenko7@gmail.com**
 
