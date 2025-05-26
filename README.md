@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dasha</h1>
+<h1 align="center">Hi 👋, I'm Daria</h1>
 <h3 align="center">I'm a front-end dev from UA</h3>
 <img align="right" alt="Me" width="250" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
