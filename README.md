@@ -4,7 +4,7 @@
 
 - 🌺 I'm currently learning <b>Nextjs</b>
 - 🔭 I’m currently working as <b>Frontend Team Lead</b>
-- 📫 How to reach me **dasafedorcenko7@gmail.com**
+- 📫 How to reach me **dashafedorchenko4@gmail.com**
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
