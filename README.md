@@ -22,17 +22,20 @@
 <p align="left"> 
  <td>
   <h3> FrontEnd </h3>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" /></a>
-  <a href="http://www.w3.org/2000/svg" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pug" alt="pug" /></a>
-  <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" /></a>
-  <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" /></a>
+<h3>FrontEnd</h3>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" /></a>
+<a href="http://www.w3.org/2000/svg" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pug" alt="pug" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
+<a href="https://www.redux.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" /></a>
+<a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
+<a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mui" alt="mui" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" /></a>
+<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" /></a>
 </td>
   <td>
     <h3>DevOps</h3>
